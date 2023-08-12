@@ -1,5 +1,4 @@
 
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNCjZADaP4O3S2cN8n1x21XH2Vcx-8-5XWBQ&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">I'm a web developer</h3>
 
