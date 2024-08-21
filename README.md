@@ -1,29 +1,78 @@
-<h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">A passionate fullstack developer from Turkiye</h3>
 
-- 💬 Ask me about **vue, ts and google/blockly**
+<h2>Hi! I'm Enes</h2>
+<div align="left">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=SeneSatka.SeneSatka&" />
+</div>
+<div>
+<h3 align="left">Techs</h3>
+<div align="left">
 
-- 📫 How to reach me **senesatka@gmail.com**
+<img src="https://skillicons.dev/icons?i=js" alt="javascript logo" height="40"/>
+<img width="12"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/senesatka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senesatka" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21245128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21245128" height="30" width="40" /></a>
-<a href="https://kaggle.com/senesatka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="senesatka" height="30" width="40" /></a>
-</p>
+<img src="https://skillicons.dev/icons?i=ts" alt="typescript logo" height="40"/>
+<img width="12"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<img src="https://skillicons.dev/icons?i=electron" alt="electron logo" height="40"/>
+<img width="12"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senesatka&show_icons=true&locale=en&layout=compact" alt="senesatka" /></p>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" height="40"/>
+<img width="12"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senesatka&show_icons=true&locale=en" alt="senesatka" /></p>
+<img src="https://skillicons.dev/icons?i=git" alt="git logo" height="40"/>
+<img width="12"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senesatka&" alt="senesatka" /></p>
+<img src="https://skillicons.dev/icons?i=github" alt="github logo" height="40"/>
+<img width="12"/>
 
-<p>
+<img src="https://skillicons.dev/icons?i=html" alt="html5 logo" height="40"/>
+<img width="12"/>
 
-<span align="center">![SeneSatka WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SeneSatka&theme=dracula&show_icons=true&langs_count=7&custom_title=WakaTime%20All%20Stats)</span>
-</p>
+<img src="https://skillicons.dev/icons?i=css" alt="css3 logo" height="40"/>
+<img width="12"/>
 
-<a href="https://discord.com/users/812347817602842624">![My Discord](https://discord-readme-badge.vercel.app/api?id=812347817602842624)</a>
+<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss logo" height="40"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=vue" alt="vuejs logo" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="discordjs logo" height="40"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" height="40"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb logo" height="40"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=linux" alt="linux logo" height="40"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=neovim" alt="neovim logo" height="40"/>
+<img width="12"/>
+
+</div>
+</div>
+<div>
+<h3 align="left">Social Media</h3>
+
+<a href="discord.com/users/812347817602842624" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/discord/default.svg" alt="discord logo" height="40" width="52"/></a>
+<img width="12"/>
+<a href="senesatka@gmail.com" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/gmail/default.svg" alt="gmail logo" height="40" width="52"/></a>
+<img width="12"/>
+<a href="https://www.linkedin.com/in/enes-aktas-4b5275282/" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/linkedin/default.svg" alt="linkedin logo" height="40" width="52"/></a>
+<img width="12"/>
+<a href="https://github.com/SeneSatka" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/github/default.svg" alt="github logo" height="40" width="52"/></a>
+<img width="12"/>
+</div>
+<div>
+<h3 align="left">Stats</h3>
+<div align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SeneSatka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SeneSatka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://streak-stats.demolab.com?user=SeneSatka&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://github-profile-trophy.vercel.app?username=SeneSatka&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph"  />
+</div>
+</div>
