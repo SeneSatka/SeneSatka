@@ -61,7 +61,7 @@
 <img width="12"/>
 <a href="senesatka@gmail.com" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/gmail/default.svg" alt="gmail logo" height="40" width="52"/></a>
 <img width="12"/>
-<a href="https://www.linkedin.com/in/enes-aktas-4b5275282/" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/linkedin/default.svg" alt="linkedin logo" height="40" width="52"/></a>
+<a href="https://www.linkedin.com/in/enes-akta%C5%9F-4b5275282/" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/linkedin/default.svg" alt="linkedin logo" height="40" width="52"/></a>
 <img width="12"/>
 </div>
 <div>
