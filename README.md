@@ -1,125 +1,59 @@
-<h2>Hi! I'm Enes</h2>
-<div align="left">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=SeneSatka.SeneSatka&" />
-</div>
-<div>
-<h3 align="left">Techs</h3>
-<div align="left">
+# Hello 👋, I'm Enes
+### FullStack Web Developer
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo" height="40"/>
-<img width="12"/>
+## Contact Me
+<p><a href="https://tr.linkedin.com/in/senesatka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://senesatka.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://medium.com/@senesatka" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> <a href="https://www.youtube.com/channel/UCewmI8VWrXJGi5qzfRnX52A" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> </p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="40"/>
-<img width="12"/>
+## Skills
 
-<img src="https://skillicons.dev/icons?i=ts" alt="typescript logo" height="40"/>
-<img width="12"/>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>&nbsp;
+<img src="https://files.raycast.com/g4bdf2ysm8hh9k906wuf7iv92f7x" alt="discord.js" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" alt="c++" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
+</p>
 
-<img src="https://skillicons.dev/icons?i=js" alt="javascript logo" height="40"/>
-<img width="12"/>
+## Projects
 
-<img src="https://skillicons.dev/icons?i=vue" alt="vuejs logo" height="40"/>
-<img width="12"/>
+### Chemistry Website
 
-<img src="https://skillicons.dev/icons?i=react" alt="react logo" height="40"/>
-<img width="12"/>
+Interactive neon periodic table
 
-<img src="https://skillicons.dev/icons?i=html" alt="html5 logo" height="40"/>
-<img width="12"/>
+[View Project](https://chemistry-senesatka.vercel.app/)
 
-<img src="https://skillicons.dev/icons?i=css" alt="css3 logo" height="40"/>
-<img width="12"/>
+---
 
-<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss logo" height="40"/>
-<img width="12"/>
+### Discordjs pagination system
 
-<img src="https://skillicons.dev/icons?i=github" alt="github logo" height="40"/>
-<img width="12"/>
+A pagination package for discordjs.
 
-<img src="https://skillicons.dev/icons?i=git" alt="git logo" height="40"/>
-<img width="12"/>
+[View Project](https://www.npmjs.com/package/@senka/djs-pagination)
 
-<img src="https://skillicons.dev/icons?i=electron" alt="electron logo" height="40"/>
-<img width="12"/>
+---
 
-<img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" height="40"/>
-<img width="12"/>
+## GitHub Stats
 
-<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb logo" height="40"/>
-<img width="12"/>
+<img src="https://github-readme-stats.vercel.app/api?username=senesatka&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
 
-<img src="https://skillicons.dev/icons?i=linux" alt="linux logo" height="40"/>
-<img width="12"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senesatka&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 
-<img src="https://skillicons.dev/icons?i=arduino" alt="arduino logo" height="40"/>
-<img width="12"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=senesatka&theme=tokyonight" alt="GitHub Streak" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=c" alt="c logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="discordjs logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/firefox/FF7139" alt="firefox logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=idea" alt="intellijidea logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="kaggle logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=ros" alt="ros logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=vite" alt="vite logo" height="40"/>
-<img width="12"/>
-
-</div>
-</div>
-<div>
-<h3 align="left">Social Media</h3>
-
-<a href="https://www.linkedin.com/in/senesatka/" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/linkedin/default.svg" alt="linkedin logo" height="40" width="52"/></a>
-<img width="12"/>
-<a href="https://medium.com/@senesatka" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/medium/default.svg" alt="medium logo" height="40" width="52"/></a>
-<img width="12"/>
-<a href="https://www.youtube.com/@SeneSatka" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/youtube/default.svg" alt="youtube logo" height="40" width="52"/></a>
-<img width="12"/>
-</div>
-<div>
-<h3 align="left">Stats</h3>
-<div align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SeneSatka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SeneSatka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<img src="https://streak-stats.demolab.com?user=SeneSatka&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-<img src="https://github-profile-trophy.vercel.app?username=SeneSatka&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph"  />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SeneSatka&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=senesatka&layout=compact&theme=dracula"/>
-</div>
-</div>
